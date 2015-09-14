@@ -1,0 +1,10 @@
+body { background: #eeeeee;}
+
+
+html { box-sizing: : border-box;}
+
+*,
+*:before,
+*:after,{
+  box-sizing: inherit;
+}
